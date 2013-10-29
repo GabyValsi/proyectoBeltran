@@ -1,0 +1,5 @@
+28 oct 2013 20:35:35,299 INFO  ~ Starting C:\Users\Gabriella\Documents\NetBeansProjects\proyectoBeltran
+28 oct 2013 20:35:35,764 WARN  ~ You're running Play! in DEV mode
+28 oct 2013 20:35:35,866 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+28 oct 2013 20:36:06,445 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+28 oct 2013 20:36:08,690 INFO  ~ Application 'proyectoBeltran' is now started !

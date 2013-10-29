@@ -7,7 +7,10 @@ public class BasicTest extends UnitTest {
 
     @Test
     public void aVeryImportantThingToTest() {
-        assertEquals(2, 1 + 1);
+        
+        new Producto("Chicles", 10, 7.0, 10.5, true).save();
+        new Producto("soda", 9, 6.0, 10.5, true).save();
+        
     }
 
 }

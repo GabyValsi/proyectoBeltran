@@ -4,6 +4,12 @@
 
 # Home page
 GET     /                                       Application.index
+#GET     /productos                              Productos.index
+
+POST       /productos                             Productos.saveProducto
+GET        /productos                              Productos.productos
+PUT        /productos/{id}                         Productos.updateProducto
+DELETE     /productos/{id}                         Productos.deleteProducto
 
 # Ignore favicon requests
 GET     /favicon.ico                            404
