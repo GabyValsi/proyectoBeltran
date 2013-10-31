@@ -69,6 +69,7 @@ public class Productos extends Controller {
         renderJSON(dbProducto);
       
     }
+    
 
 }
     
